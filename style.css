@@ -1,0 +1,12 @@
+div {
+  margin: 10px;
+  font-size: 14px;
+  border: 1px solid #bcbcbc;
+  padding: 20px;
+}
+#app {
+  font-weight: 400;
+  color: orange;
+  background: #f2f2f2;
+  border: 0px solid #bcbcbc;
+}
